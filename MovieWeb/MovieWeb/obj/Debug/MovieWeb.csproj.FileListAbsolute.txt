@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\MovieWeb\MovieWeb\bin\MovieWeb.dll
+C:\Users\Student\Desktop\MovieWeb\MovieWeb\bin\MovieWeb.pdb
+C:\Users\Student\Desktop\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\MovieWeb\MovieWeb\obj\Debug\MovieWeb.dll
+C:\Users\Student\Desktop\MovieWeb\MovieWeb\obj\Debug\MovieWeb.pdb
+E:\C#inClassPractice\MovieWeb\MovieWeb\bin\MovieWeb.dll.config
+E:\C#inClassPractice\MovieWeb\MovieWeb\bin\MovieWeb.dll
+E:\C#inClassPractice\MovieWeb\MovieWeb\bin\MovieWeb.pdb
+E:\C#inClassPractice\MovieWeb\MovieWeb\obj\Debug\MovieWeb.dll
+E:\C#inClassPractice\MovieWeb\MovieWeb\obj\Debug\MovieWeb.pdb
+E:\C#inClassPractice\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csprojResolveAssemblyReference.cache

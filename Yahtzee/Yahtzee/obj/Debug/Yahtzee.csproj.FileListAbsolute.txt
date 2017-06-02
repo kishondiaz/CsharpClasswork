@@ -1,0 +1,18 @@
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Form1.resources
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+E:\C#inClassPractice\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+E:\C#inClassPractice\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+E:\C#inClassPractice\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Form1.resources
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+E:\C#inClassPractice\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache

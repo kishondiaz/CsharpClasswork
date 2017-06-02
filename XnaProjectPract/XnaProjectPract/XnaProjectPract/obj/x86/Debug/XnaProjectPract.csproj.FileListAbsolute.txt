@@ -1,0 +1,63 @@
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\GameThumbnail.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\ashshowpic.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\arcade_buttons_by_atebitninja-d4hr3kh.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\historic-front-street.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.exe
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.csprojResolveAssemblyReference.cache
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.exe
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.pdb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.pdb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Right.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Left.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Idle.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Idle.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Idle.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Low_punch.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Low_punch.xnb
+C:\Users\Kishon\Documents\Visual Studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthGuage.xnb
+C:\Users\Kishon\Documents\Visual Studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthBar.xnb
+C:\Users\Kishon\Documents\Visual Studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\containerBar.xnb
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\apple_PNG38.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\GameThumbnail.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\ashshowpic.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\arcade_buttons_by_atebitninja-d4hr3kh.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\historic-front-street.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Idle.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Right.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Left.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Idle.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Idle.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Low_punch.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Low_punch.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthGuage.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthBar.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\containerBar.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\apple_PNG38.xnb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.exe
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.pdb
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.csprojResolveAssemblyReference.cache
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.exe
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.pdb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\GameThumbnail.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\ashshowpic.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\arcade_buttons_by_atebitninja-d4hr3kh.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\historic-front-street.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Idle.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Right.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_walking_Left.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Idle.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Idle.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Right_Low_punch.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\Alex_Left_Low_punch.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthGuage.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\healthBar.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\containerBar.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\Content\apple_PNG38.xnb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.exe
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\bin\x86\Debug\XnaProjectPract.pdb
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.csprojResolveAssemblyReference.cache
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.exe
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPract\obj\x86\Debug\XnaProjectPract.pdb

@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\formatting\formatting\bin\Debug\formatting.exe.config
+C:\Users\Student\Desktop\formatting\formatting\bin\Debug\formatting.exe
+C:\Users\Student\Desktop\formatting\formatting\bin\Debug\formatting.pdb
+C:\Users\Student\Desktop\formatting\formatting\obj\Debug\formatting.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\formatting\formatting\obj\Debug\formatting.exe
+C:\Users\Student\Desktop\formatting\formatting\obj\Debug\formatting.pdb
+E:\C#inClassPractice\formatting\formatting\bin\Debug\formatting.exe.config
+E:\C#inClassPractice\formatting\formatting\obj\Debug\formatting.exe
+E:\C#inClassPractice\formatting\formatting\obj\Debug\formatting.pdb

@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\bin\Debug\CarpetCalc.exe.config
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\bin\Debug\CarpetCalc.exe
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\bin\Debug\CarpetCalc.pdb
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\obj\Debug\CarpetCalc.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\obj\Debug\CarpetCalc.exe
+C:\Users\Student\Desktop\CarpetCalc\CarpetCalc\obj\Debug\CarpetCalc.pdb
+E:\C#inClassPractice\CarpetCalc\CarpetCalc\bin\Debug\CarpetCalc.exe.config
+E:\C#inClassPractice\CarpetCalc\CarpetCalc\obj\Debug\CarpetCalc.exe
+E:\C#inClassPractice\CarpetCalc\CarpetCalc\obj\Debug\CarpetCalc.pdb

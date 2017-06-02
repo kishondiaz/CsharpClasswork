@@ -1,0 +1,12 @@
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\bin\Debug\Simple.exe.config
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\bin\Debug\Simple.exe
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\bin\Debug\Simple.pdb
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.csprojResolveAssemblyReference.cache
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.frmSample.resources
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.Properties.Resources.resources
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.csproj.GenerateResource.Cache
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.exe
+c:\Users\Student\Documents\Visual Studio 2012\Projects\Simple\Simple\obj\Debug\Simple.pdb
+E:\C#inClassPractice\Simple\Simple\bin\Debug\Simple.exe.config
+E:\C#inClassPractice\Simple\Simple\obj\Debug\Simple.exe
+E:\C#inClassPractice\Simple\Simple\obj\Debug\Simple.pdb

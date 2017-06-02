@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\FileAccess\FileAccess\bin\Debug\FileAccess.exe.config
+C:\Users\Student\Desktop\FileAccess\FileAccess\bin\Debug\FileAccess.exe
+C:\Users\Student\Desktop\FileAccess\FileAccess\bin\Debug\FileAccess.pdb
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.Form1.resources
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.Properties.Resources.resources
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.exe
+C:\Users\Student\Desktop\FileAccess\FileAccess\obj\Debug\FileAccess.pdb

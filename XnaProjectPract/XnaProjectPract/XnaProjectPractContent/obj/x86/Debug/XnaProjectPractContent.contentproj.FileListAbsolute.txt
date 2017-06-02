@@ -1,0 +1,3 @@
+C:\Users\Kishon\documents\visual studio 2013\Projects\XnaProjectPract\XnaProjectPract\XnaProjectPractContent\obj\x86\Debug\XnaProjectPractContent.contentprojResolveAssemblyReference.cache
+E:\C# Project\XnaProjectPract\XnaProjectPract\XnaProjectPractContent\obj\x86\Debug\XnaProjectPractContent.contentprojResolveAssemblyReference.cache
+C:\Users\simplecast\Documents\GitHub\XnaProjectPract\XnaProjectPract\XnaProjectPractContent\obj\x86\Debug\XnaProjectPractContent.contentprojResolveAssemblyReference.cache

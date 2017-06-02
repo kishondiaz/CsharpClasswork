@@ -1,0 +1,15 @@
+Content\GameThumbnail.xnb
+Content\ashshowpic.xnb
+Content\arcade_buttons_by_atebitninja-d4hr3kh.xnb
+Content\historic-front-street.xnb
+Content\Idle.xnb
+Content\Alex_walking_Right.xnb
+Content\Alex_walking_Left.xnb
+Content\Alex_Right_Idle.xnb
+Content\Alex_Left_Idle.xnb
+Content\Alex_Right_Low_punch.xnb
+Content\Alex_Left_Low_punch.xnb
+Content\healthGuage.xnb
+Content\healthBar.xnb
+Content\containerBar.xnb
+Content\apple_PNG38.xnb

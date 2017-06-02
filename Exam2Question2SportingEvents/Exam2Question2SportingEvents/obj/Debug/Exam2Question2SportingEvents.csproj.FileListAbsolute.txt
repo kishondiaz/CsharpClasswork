@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\bin\Debug\Exam2Question2SportingEvents.exe.config
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\bin\Debug\Exam2Question2SportingEvents.exe
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\bin\Debug\Exam2Question2SportingEvents.pdb
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.Form1.resources
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.Properties.Resources.resources
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.exe
+C:\Users\Student\Desktop\Exam2Question2SportingEvents\Exam2Question2SportingEvents\obj\Debug\Exam2Question2SportingEvents.pdb

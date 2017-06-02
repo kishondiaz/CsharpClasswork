@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzee", "Yahtzee\Yahtzee.csproj", "{A1DE3B23-A23D-460A-95F9-F29A39BC5B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DE3B23-A23D-460A-95F9-F29A39BC5B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DE3B23-A23D-460A-95F9-F29A39BC5B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DE3B23-A23D-460A-95F9-F29A39BC5B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DE3B23-A23D-460A-95F9-F29A39BC5B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

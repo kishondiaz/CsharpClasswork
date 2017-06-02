@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\bin\Debug\Exam2Question1MessageDisplay.exe.config
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\bin\Debug\Exam2Question1MessageDisplay.exe
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\bin\Debug\Exam2Question1MessageDisplay.pdb
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.Form1.resources
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.Properties.Resources.resources
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.exe
+C:\Users\Student\Desktop\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.pdb
+C:\Users\simplecast\Desktop\rec\Recovered data 09-13-2016 at 11_20_10\NTFS 0\C#Test\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\bin\Debug\Exam2Question1MessageDisplay.exe.config
+C:\Users\simplecast\Desktop\rec\Recovered data 09-13-2016 at 11_20_10\NTFS 0\C#Test\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.exe
+C:\Users\simplecast\Desktop\rec\Recovered data 09-13-2016 at 11_20_10\NTFS 0\C#Test\Exam2Question1MessageDisplay\Exam2Question1MessageDisplay\obj\Debug\Exam2Question1MessageDisplay.pdb

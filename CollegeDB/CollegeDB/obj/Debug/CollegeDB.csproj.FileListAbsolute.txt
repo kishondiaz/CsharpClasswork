@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\bin\Debug\CollegeDB.exe.config
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\bin\Debug\CollegeDB.exe
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\bin\Debug\CollegeDB.pdb
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\obj\Debug\CollegeDB.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\obj\Debug\CollegeDB.exe
+C:\Users\Student\Desktop\CollegeDB\CollegeDB\obj\Debug\CollegeDB.pdb
+E:\C#inClassPractice\CollegeDB\CollegeDB\bin\Debug\CollegeDB.exe.config
+E:\C#inClassPractice\CollegeDB\CollegeDB\obj\Debug\CollegeDB.exe
+E:\C#inClassPractice\CollegeDB\CollegeDB\obj\Debug\CollegeDB.pdb
